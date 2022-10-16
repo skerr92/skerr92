@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an FGPA Feather for the masses!
-- 🏢 I love startups! (and work for one called [Spark Grills!](https://sparkgrills.com)
+- 🏢 I love startups! (and used to work for one called [Spark Grills!](https://sparkgrills.com))
 - 🌱 I’m currently learning how to be a better firmware engineer
 - 👯 I’m looking to collaborate on open source embedded projects
 - 🤔 I’m looking for help with any of my projects with open issues
